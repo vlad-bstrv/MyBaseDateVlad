@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15829308544",
+    "firebase_url": "https://basedatevlad1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "basedatevlad1",
+    "storage_bucket": "basedatevlad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15829308544:android:fddde4d9b73959ff050265",
+        "android_client_info": {
+          "package_name": "com.vladbstrv.mybasedatevlad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15829308544-g49n4ub47lknr6jf8tfoibar1otc24d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnhR-cdPg5ZDHY8diIwbBAOiDVDqtybE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15829308544-g49n4ub47lknr6jf8tfoibar1otc24d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
